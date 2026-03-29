@@ -120,10 +120,6 @@ postly/
 - [ ] Multi-user support with Supabase auth
 - [ ] Stripe payments for SaaS version
 
-## License
-
-MIT License - feel free to use this for your own projects.
-
 ---
 
 Built with React, Gemini AI, and Make.com
