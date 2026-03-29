@@ -1,0 +1,19 @@
+{
+  "note": "Export your Make.com scenario blueprint here.",
+  "instructions": [
+    "1. Go to your Make.com scenario",
+    "2. Click the three dots (...) at the top right",
+    "3. Click Export Blueprint",
+    "4. Replace this file with the downloaded .json file",
+    "5. Rename it to socialos-blueprint.json"
+  ],
+  "modules": [
+    "Webhooks - Custom webhook (receives post data)",
+    "Router - Routes to each platform",
+    "LinkedIn - Create a User Text Post",
+    "Facebook Pages - Create a Post",
+    "Google Sheets - Add a Row (logging)",
+    "Webhooks - Webhook Response (returns result)"
+  ],
+  "webhook_url": "Replace with your Make.com webhook URL"
+}
