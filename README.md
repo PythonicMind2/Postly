@@ -2,10 +2,6 @@
 
 A full-stack social media management tool that lets businesses create, generate, and publish posts across multiple platforms from a single dashboard — powered by Google Gemini AI.
 
-## Demo
-
-> Add screenshots here after taking them from the app
-
 ## Features
 
 - **AI Caption Generation** — Describe your post idea, Gemini 2.5 Flash writes platform-optimized captions automatically
